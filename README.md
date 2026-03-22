@@ -1,23 +1,27 @@
-# Hi there 👋
+# Hi there, I'm Md Faizan
 
-I'm Mohd Faizan Khan, a passionate developer and competitive programmer.
+Computer Science Student · AI Engineering Track · NST Bangalore, India
 
-## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=0077b6&style=flat-square&label=Profile+Views)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan-902&show_icons=true&theme=dark)
+---
 
-## 🔧 Most Used Languages
+## About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact&theme=dark)
+I'm a BTech CSE student at Newton School of Technology, Bangalore.
+Focused on software engineering fundamentals, competitive programming, and AI.
+Building toward production-grade AI systems.
 
-## 🌟 About Me
+## Tech Stack
 
-- 🎯 Competitive programmer with interests in DSA and algorithms
-- 🎮 Game development enthusiast
-- 💻 Full-stack developer
-- 🚀 Always learning and improving
+`Python` `JavaScript` `HTML` `CSS` `Git` `GitHub` `Figma`
 
-## 📫 How to reach me
+## Currently Working On
 
-- Email: amramoin2@gmail.com
-- GitHub: [@Faizan-902](https://github.com/Faizan-902)
+- Data Structures & Algorithms — daily practice
+- Competitive Programming — pattern recognition & problem solving
+- AI Engineering fundamentals — preparing for specialization
+
+## Let's Connect
+
+Open to collaborations, open-source contributions, and AI projects.
