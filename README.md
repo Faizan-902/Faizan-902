@@ -1,27 +1,67 @@
-# Hi there, I'm Md Faizan
+# Hi, I'm Faizan
 
-Computer Science Student · AI Engineering Track · NST Bangalore, India
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=0077b6&style=flat-square&label=Profile+Views)
+Problem Solver focused on **Data Structures & Algorithms**, Backend Engineering, and AI Systems.  
+Actively practicing Competitive Programming and improving algorithmic thinking.
 
 ---
 
 ## About Me
 
-I'm a BTech CSE student at Newton School of Technology, Bangalore.
-Focused on software engineering fundamentals, competitive programming, and AI.
-Building toward production-grade AI systems.
+- BTech CSE @ Newton School of Technology (NST), Bangalore  
+- Strong focus on **DSA, problem solving, and backend development**  
+- Consistently improving through structured practice and contests  
+- Long-term goal: Become a high-performance software engineer (Top 1%)
+
+---
 
 ## Tech Stack
 
-`Python` `JavaScript` `HTML` `CSS` `Git` `GitHub` `Figma`
+**Languages**
+- Python, JavaScript, TypeScript
 
-## Currently Working On
+**Core Skills**
+- Data Structures & Algorithms  
+- Problem Solving  
+- Backend Development (Basics)
 
-- Data Structures & Algorithms — daily practice
-- Competitive Programming — pattern recognition & problem solving
-- AI Engineering fundamentals — preparing for specialization
+**Tools & Platforms**
+- Git, GitHub  
+- Node.js  
+- Google Cloud (Basics)
 
-## Let's Connect
+---
 
-Open to collaborations, open-source contributions, and AI projects.
+## Projects
+
+### 1. (Add Your Project)
+- Built using:  
+- Description:  
+- Key learning:
+
+### 2. (Add Your Project)
+- Built using:  
+- Description:  
+- Key learning:
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Faizan-902&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact)
+
+---
+
+## Current Focus
+
+- Advanced DSA (patterns + contests)  
+- Backend development fundamentals  
+- Building real-world projects  
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Faizan-902
+- LinkedIn: (add later)
