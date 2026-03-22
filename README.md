@@ -1,67 +1,29 @@
-# Hi, I'm Faizan
+# 💻 Tech Stack:
 
-Problem Solver focused on **Data Structures & Algorithms**, Backend Engineering, and AI Systems.  
-Actively practicing Competitive Programming and improving algorithmic thinking.
-
----
-
-## About Me
-
-- BTech CSE @ Newton School of Technology (NST), Bangalore  
-- Strong focus on **DSA, problem solving, and backend development**  
-- Consistently improving through structured practice and contests  
-- Long-term goal: Become a high-performance software engineer (Top 1%)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
 ---
 
-## Tech Stack
+# 👨‍💻 About Me
 
-**Languages**
-- Python, JavaScript, TypeScript
-
-**Core Skills**
-- Data Structures & Algorithms  
-- Problem Solving  
-- Backend Development (Basics)
-
-**Tools & Platforms**
-- Git, GitHub  
-- Node.js  
-- Google Cloud (Basics)
+- BTech CSE student @ Newton School of Technology  
+- Focused on **Data Structures & Algorithms and Backend Development**  
+- Actively practicing **Competitive Programming**  
+- Building strong problem-solving and logical thinking skills  
+- Goal: Become a high-performance software engineer  
 
 ---
 
-## Projects
+# 📊 GitHub Stats:
 
-### 1. (Add Your Project)
-- Built using:  
-- Description:  
-- Key learning:
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan-902&show_icons=true&theme=dark)
 
-### 2. (Add Your Project)
-- Built using:  
-- Description:  
-- Key learning:
+![GitHub Streak](https://streak-stats.demolab.com?user=Faizan-902&theme=dark)
 
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Faizan-902&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact)
-
----
-
-## Current Focus
-
-- Advanced DSA (patterns + contests)  
-- Backend development fundamentals  
-- Building real-world projects  
-
----
-
-## Contact
-
-- GitHub: https://github.com/Faizan-902
-- LinkedIn: (add later)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact&theme=dark)
