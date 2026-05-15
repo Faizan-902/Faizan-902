@@ -24,6 +24,4 @@
 
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan-902&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Faizan-902&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact&theme=dark)
