@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ===================== TYPING HEADER ===================== -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&random=false&width=520&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Faizan+Khan;Aspiring+Full-Stack+Developer;Python+%26+React+Enthusiast;Building+for+MAANG+Standards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&random=false&width=520&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Faizan+Khan;Aspiring+Full-Stack+Developer;Python+%26+React+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 
   <!-- ===================== BADGES ===================== -->
   <img src="https://komarev.com/ghpvc/?username=Faizan-902&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" />
