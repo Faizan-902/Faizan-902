@@ -53,13 +53,17 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=GitHub+Stats" alt="GitHub Stats" />
   </picture>
 
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-902&theme=react_dark" width="100%" />
+  </p>
+
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact&theme=react_dark&hide_border=true&langs_count=8&card_width=300" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan-902&theme=react_dark" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/?username=Faizan-902&show_icons=true&theme=react_dark&hide_border=true&count_private=true&card_width=400" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan-902&theme=react_dark" />
       </td>
     </tr>
     <tr>
@@ -97,7 +101,7 @@
   <br/>
 
   <!-- ===================== TROPHIES ===================== -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-902&theme=onestar&no-frame=true&column=7&row=1&margin-w=10&margin-h=10" width="90%" />
+  <img src="https://trophy.benkou.dev/?username=Faizan-902&theme=onestar&no-frame=true&column=7&row=1&margin-w=10&margin-h=10" width="90%" />
 
   <br/>
   <br/>
