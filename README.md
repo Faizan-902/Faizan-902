@@ -111,7 +111,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://leetcode.com/u/Md_Faizan_1/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Mohd.Faizan">
