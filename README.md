@@ -52,30 +52,6 @@
   <br/>
   <br/>
 
-  <!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Competitive+Programming">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=Competitive+Programming" alt="Competitive Programming" />
-  </picture>
-
-  <table>
-    <tr>
-      <td>
-        <a href="https://leetcode.com/u/Md_Faizan_1/">
-          <img src="https://leetcard.jacoblin.cool/Md_Faizan_1?theme=dark&font=Noto%20Sans" />
-        </a>
-      </td>
-      <td>
-        <a href="https://codeforces.com/profile/Mohd.Faizan">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohd.Faizan&theme=dark&force_username=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <br/>
-
   <!-- ===================== GITHUB STATS ===================== -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=GitHub+Stats">
