@@ -58,6 +58,10 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=GitHub+Stats" alt="GitHub Stats" />
   </picture>
 
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-902&theme=react_dark" width="100%" />
+  </p>
+
   <table>
     <tr>
       <td>
