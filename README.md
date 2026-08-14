@@ -17,12 +17,12 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%A7%A0+About+Me" alt="About Me" />
   </picture>
 
-  <p>
-    <strong>Developer who loves turning ideas into clean, working code.</strong><br/>
-    🌱 Currently sharpening <em>Data Structures, Algorithms & System Design</em><br/>
-    🚀 Building full-stack projects with <strong>Python</strong> + <strong>React</strong><br/>
-    🎯 Goal: crack MAANG interviews with strong fundamentals & showcased projects<br/>
-    ⚡ Fun fact: I debug at 2am and it actually works
+  <p align="left">
+    🎓 <strong>First-year Computer Science student</strong> at Newton School of Technology<br/>
+    💻 Passionate about building real-world software and scalable applications<br/>
+    🏆 Interested in Competitive Programming and algorithmic problem solving<br/>
+    🚀 Currently focused on DSA, system design fundamentals, and software engineering<br/>
+    🌱 Always learning, building, and exploring new technologies
   </p>
 
   <br/>
