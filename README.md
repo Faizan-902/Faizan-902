@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- ===================== WAVE HEADER ===================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:1E90FF&height=120&section=header" width="100%"/>
+
+  <br/>
+
   <!-- ===================== TYPING HEADER ===================== -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&random=false&width=520&height=60&lines=Hi%2C+I'm+Mohd+Faizan+Khan;Aspiring+Full-Stack+Developer;Python+%26+React+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 
@@ -43,6 +48,30 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
+
+  <br/>
+  <br/>
+
+  <!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Competitive+Programming">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=Competitive+Programming" alt="Competitive Programming" />
+  </picture>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/u/Md_Faizan_1/">
+          <img src="https://leetcard.jacoblin.cool/Md_Faizan_1?theme=dark&font=Noto%20Sans" />
+        </a>
+      </td>
+      <td>
+        <a href="https://codeforces.com/profile/Mohd.Faizan">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohd.Faizan&theme=dark&force_username=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
   <br/>
