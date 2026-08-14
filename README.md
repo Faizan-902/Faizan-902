@@ -8,13 +8,6 @@
   <!-- ===================== TYPING HEADER ===================== -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&random=false&width=520&height=60&lines=Hi%2C+I'm+Mohd+Faizan+Khan;Aspiring+Full-Stack+Developer;Python+%26+React+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 
-  <!-- ===================== BADGES ===================== -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Faizan-902&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/followers/Faizan-902?label=FOLLOWERS&style=for-the-badge&color=FFDA03" />
-    <img src="https://img.shields.io/github/stars/Faizan-902?label=STARS&style=for-the-badge&color=32CD32" />
-  </p>
-
   <br/>
   <br/>
 
