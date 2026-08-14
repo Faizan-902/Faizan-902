@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%A7%A0+About+Me" alt="About Me" />
   </picture>
 
-  <p align="left">
+  <p align="center">
     🎓 <strong>First-year Computer Science student</strong> at Newton School of Technology<br/>
     💻 Passionate about building real-world software and scalable applications<br/>
     🏆 Interested in Competitive Programming and algorithmic problem solving<br/>
@@ -72,8 +72,8 @@
 
   <!-- ===================== SNAKE ===================== -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=520&height=40&lines=%F0%9F%90%8D+Watch+the+Snake+Eat+My+Contributions">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=520&height=40&lines=%F0%9F%90%8D+Watch+the+Snake+Eat+My+Contributions" alt="Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%90%8D+Watch+the+Snake+Eat+My+Contributions">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%90%8D+Watch+the+Snake+Eat+My+Contributions" alt="Snake" />
   </picture>
 
   <picture>
@@ -104,7 +104,6 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%8C%90+Let's+Connect" alt="Connect" />
   </picture>
 
-  <!-- TODO: replace '#' with your real profile URLs -->
   <a href="mailto:YOUR_GMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
