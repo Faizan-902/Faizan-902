@@ -1,0 +1,123 @@
+<div align="center">
+
+  <!-- ===================== TYPING HEADER ===================== -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&random=false&width=520&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Faizan+Khan;Aspiring+Full-Stack+Developer;Python+%26+React+Enthusiast;Building+for+MAANG+Standards" alt="Typing SVG" />
+
+  <!-- ===================== BADGES ===================== -->
+  <img src="https://komarev.com/ghpvc/?username=Faizan-902&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Faizan-902?label=FOLLOWERS&style=for-the-badge&color=FFDA03" />
+  <img src="https://img.shields.io/github/stars/Faizan-902?label=STARS&style=for-the-badge&color=32CD32" />
+
+  <br/>
+  <br/>
+
+  <!-- ===================== ABOUT ME ===================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%A7%A0+About+Me">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%A7%A0+About+Me" alt="About Me" />
+  </picture>
+
+  <p>
+    <strong>Developer who loves turning ideas into clean, working code.</strong><br/>
+    🌱 Currently sharpening <em>Data Structures, Algorithms & System Design</em><br/>
+    🚀 Building full-stack projects with <strong>Python</strong> + <strong>React</strong><br/>
+    🎯 Goal: crack MAANG interviews with strong fundamentals & showcased projects<br/>
+    ⚡ Fun fact: I debug at 2am and it actually works
+  </p>
+
+  <br/>
+
+  <!-- ===================== TECH ARSENAL ===================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal" />
+  </picture>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <br/>
+  <br/>
+
+  <!-- ===================== GITHUB STATS ===================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%93%8A+GitHub+Stats">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+  </picture>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-902&layout=compact&theme=react_dark&hide_border=true&langs_count=8&card_width=300" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/?username=Faizan-902&show_icons=true&theme=react_dark&hide_border=true&count_private=true&card_width=400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-902&theme=react-dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-902&theme=react-dark&hide_border=true&area=true&hide_title=true" width="90%" />
+
+  <br/>
+  <br/>
+
+  <!-- ===================== SNAKE ===================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=520&height=40&lines=%F0%9F%90%8D+Watch+the+Snake+Eat+My+Contributions">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=520&height=40&lines=%F0%9F%90%8D+Watch+the+Snake+Eat+My+Contributions" alt="Snake" />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Faizan-902/Faizan-902/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Faizan-902/Faizan-902/output/github-contribution-grid-snake.svg"
+    />
+    <img alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/Faizan-902/Faizan-902/output/github-contribution-grid-snake.svg"
+      width="90%" />
+  </picture>
+
+  <br/>
+
+  <!-- ===================== TROPHIES ===================== -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-902&theme=onestar&no-frame=true&column=7&row=1&margin-w=10&margin-h=10" width="90%" />
+
+  <br/>
+  <br/>
+
+  <!-- ===================== CONNECT ===================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%8C%90+Let's+Connect">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%8C%90+Let's+Connect" alt="Connect" />
+  </picture>
+
+  <!-- TODO: replace '#' with your real profile URLs -->
+  <a href="mailto:YOUR_GMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <!-- ===================== WAVE FOOTER ===================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00E6FF&height=120&section=footer" width="100%"/>
+</div>
