@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&random=false&width=520&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Faizan+Khan;Aspiring+Full-Stack+Developer;Python+%26+React+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 
   <!-- ===================== BADGES ===================== -->
-  <img src="https://komarev.com/ghpvc/?username=Faizan-902&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Faizan-902?label=FOLLOWERS&style=for-the-badge&color=FFDA03" />
-  <img src="https://img.shields.io/github/stars/Faizan-902?label=STARS&style=for-the-badge&color=32CD32" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Faizan-902&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/Faizan-902?label=FOLLOWERS&style=for-the-badge&color=FFDA03" />
+    <img src="https://img.shields.io/github/stars/Faizan-902?label=STARS&style=for-the-badge&color=32CD32" />
+  </p>
 
   <br/>
   <br/>
@@ -33,12 +35,14 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal" />
   </picture>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
 
   <br/>
   <br/>
@@ -104,18 +108,20 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%8C%90+Let's+Connect" alt="Connect" />
   </picture>
 
-  <a href="mailto:YOUR_GMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohd-faizan-khan-95310b30a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Md_Faizan_1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Mohd.Faizan">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+  <p align="center">
+    <a href="mailto:YOUR_GMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohd-faizan-khan-95310b30a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/Md_Faizan_1/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+    <a href="https://codeforces.com/profile/Mohd.Faizan">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    </a>
+  </p>
 
   <br/>
   <br/>
