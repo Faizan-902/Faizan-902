@@ -88,14 +88,6 @@ Philosophy: "Write clean, resilient, and performant code that solves real proble
 
 ---
 
-### 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://trophy.benkou.dev/?username=Faizan-902&theme=radical&no-frame=true&column=7&row=1&margin-w=10&margin-h=10" width="90%" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📬 Let's Connect
 
 <div align="center">
