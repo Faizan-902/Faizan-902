@@ -1,7 +1,7 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- ===================== HEADER BANNER ===================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,50:0077B5,100:1E90FF&height=180&section=header&text=Mohd%20Faizan%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20%26%20Systems%20%7C%20Competitive%20Programming&descFontSize=16&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,50:0077B5,100:1E90FF&height=180&section=header&text=Mohd%20Faizan%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20and%20Systems%20%7C%20Competitive%20Programming&descFontSize=16&descAlignY=62" width="100%"/>
 
   <!-- ===================== TYPING SUBTITLE ===================== -->
   <a href="https://github.com/Faizan-902">
