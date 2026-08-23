@@ -19,7 +19,7 @@
     <a href="https://codeforces.com/profile/Mohd.Faizan" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
     </a>
-    <a href="mailto:amramoin2@gmail.com">
+    <a href="mailto:mfk.faizan.work@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -100,8 +100,8 @@ Philosophy: "Write clean, resilient, and performant code that solves real proble
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:amramoin2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amramoin2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mfk.faizan.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mfk.faizan.work@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Md_Faizan_1/" target="_blank">
