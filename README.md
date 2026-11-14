@@ -64,7 +64,7 @@ Philosophy: "Write clean, resilient, and performant code that solves real proble
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Faizan-902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faizan's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan-902&theme=tokyonight" alt="Faizan's GitHub statistics" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-902&theme=tokyonight&hide_border=true" alt="Faizan's GitHub Streak" />
@@ -72,7 +72,7 @@ Philosophy: "Write clean, resilient, and performant code that solves real proble
     </tr>
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-902&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-902&theme=tokyonight" width="95%" alt="Commit activity by time of day" />
 
   <br/>
   <br/>
